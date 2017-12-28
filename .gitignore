@@ -50,7 +50,12 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
-.idea/
+.idea/boilerplate.iml
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
 node_modules/
 yarn-error.log
 build

@@ -1,18 +1,18 @@
 {
-    "name": "cogent",
+    "name": "ReactBoilerPlate",
     "version": "1.0.0",
-    "description": "Cogent Lab Test Exam",
+    "description": "Reactr Boilrplate",
     "author": "Milos Nikolic",
     "main": "app.js",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/Milos5611/cogent_lab.git"
+        "url": "git+ssh://git@github.com/Milos5611/prodyna_lab.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Milos5611/cogent_lab/issues"
+        "url": "https://github.com/Milos5611/prodyna_lab/issues"
     },
-    "homepage": "https://github.com/Milos5611/cogent_lab#readme",
+    "homepage": "https://github.com/Milos5611/prodyna_lab#readme",
     "jest": {
         "verbose": true
     },
